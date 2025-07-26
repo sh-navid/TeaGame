@@ -1,0 +1,18 @@
+{
+  "name": "tea-game",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    
+  },
+  "scripts": {
+    
+  },
+  "eslintConfig": {
+    
+  },
+  "browserslist": {
+    
+  },
+  "proxy": "http://localhost:5000"
+}
